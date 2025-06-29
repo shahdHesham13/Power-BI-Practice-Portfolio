@@ -1,15 +1,19 @@
 # My Power BI Learning Path
 
-This course was a full journey into Business Intelligence with a strong focus on how **Power BI** fits into the process. We started by understanding the BI flow, getting data, transforming it, modeling, analyzing, then visualizing and sharing it.
+This course was a full journey into Business Intelligence with a strong focus on how **Power BI** fits into the process. We started by understanding the BI flow, getting data, transforming, modeling, analyzing, then visualizing and sharing it.
 
 
-## For detailed practicals of what I worked on in each lab
- [Lab1](./Day01/)<br>
- [Lab2](./Day02/)<br>
- [Lab3](./Day03/)<br>
- [Lab4](./Day04/)<br>
- [Lab5](./Day05/)<br>
- [Lab6](./Day06/)
+## Detailed practicals of what I worked on in each lab
+ - [Lab1](./Day01/)<br>
+ - [Lab2](./Day02/)<br>
+ - [Lab3](./Day03/)<br>
+ - [Lab4](./Day04/)<br>
+ - [Lab5](./Day05/)<br>
+ - [Lab6](./Day06/)
+
+## Interactive Dashboards
+You can explore interactive dashboards for Lab 3 and Lab 5 here: 
+<br> [novypro account](https://my.novypro.com/shahd-hesham)
 
 
 ## Course Overview
