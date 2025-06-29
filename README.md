@@ -3,15 +3,13 @@
 This course was a full journey into Business Intelligence with a strong focus on how **Power BI** fits into the process. We started by understanding the BI flow, getting data, transforming it, modeling, analyzing, then visualizing and sharing it.
 
 
-## Check the detailed practical steps and what I worked on in each lab
-
-
- [Lab1](./Lab1/Readme.md)<br>
- [Lab2](./Lab2/Readme.md)<br>
- [Lab3](./Lab3/Readme.md)<br>
- [Lab4](./Lab4/Readme.md)<br>
- [Lab5](./Lab5/Readme.md)<br>
- [Lab6](./Lab6/Readme.md)
+## For detailed practicals of what I worked on in each lab
+ [Lab1](./Day01/)<br>
+ [Lab2](./Day02/)<br>
+ [Lab3](./Day03/)<br>
+ [Lab4](./Day04/)<br>
+ [Lab5](./Day05/)<br>
+ [Lab6](./Day06/)
 
 
 ## Course Overview
